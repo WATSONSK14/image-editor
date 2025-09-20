@@ -107,7 +107,7 @@ This order ensures correct layer arrangement in printing.
 
 ## 📄 License
 
-Copyright (c) 2024 WATSONSK14
+Copyright (c) 2025 WATSONSK14
 
 This software is free but subject to the following conditions:
 - Source must be credited
@@ -123,4 +123,4 @@ If you liked this project, don't forget to give it a star!
 
 **Developer:** WATSONSK14  
 **Version:** 1.0  
-**Last Update:** 2024
+**Last Update:** 2025
