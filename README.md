@@ -107,7 +107,7 @@ Bu sıralama ile baskıda doğru katman düzeni sağlanır.
 
 ## 📄 Lisans
 
-Copyright (c) 2024 WATSONSK14
+Copyright (c) 2025 WATSONSK14
 
 Bu yazılım ücretsizdir ancak:
 - Kaynak gösterilmelidir
@@ -123,4 +123,4 @@ Bu projeyi beğendiyseniz star atmayı unutmayın!
 
 **Geliştirici:** WATSONSK14  
 **Versiyon:** 1.0  
-**Son Güncelleme:** 2024
+**Son Güncelleme:** 2025
